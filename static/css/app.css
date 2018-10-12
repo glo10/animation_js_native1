@@ -1,0 +1,19 @@
+#content-msg,
+#content-counter{
+  width:20%;
+  margin:10px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+  float: right;
+}
+
+#content-msg{
+  display: none;
+}
+
+#content-counter{
+  font-size: 1.1rem;
+  color:#F00;
+  visibility: hidden;
+}
